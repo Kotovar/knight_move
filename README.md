@@ -1,3 +1,3 @@
-# knight-s_move
+# knight_move
 
 In developing 
