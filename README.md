@@ -36,4 +36,4 @@ Open the file, open the console and run: node script.js
 When the code finds an end vertex, it reconstructs the path from the start vertex to the end vertex by following references to the parent vertices.
 
 ## Credits
-This project was inspired by [[The Odin Project](https://www.theodinproject.com/lessons/javascript-knights-travails)], which is an open source curriculum for learning web development.
+This project was inspired by [The Odin Project](https://www.theodinproject.com/lessons/javascript-knights-travails), which is an open source curriculum for learning web development.
